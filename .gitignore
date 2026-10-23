@@ -1,0 +1,6 @@
+.DS_Store
+# Gowin IDE build output and per-user settings
+impl/
+*.gprj.user
+# Book (not redistributable)
+*.epub

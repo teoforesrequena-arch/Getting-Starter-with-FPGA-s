@@ -1,0 +1,12 @@
+IO_LOC "o_LED_1" 10;
+IO_LOC "o_LED_2" 11;
+IO_LOC "o_LED_3" 13;
+IO_LOC "o_LED_4" 14;
+IO_LOC "o_LED_5" 15;
+IO_LOC "o_LED_6" 16;
+
+IO_LOC "i_Switch_1" 3;
+IO_LOC "i_Switch_2" 4;
+
+
+
